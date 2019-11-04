@@ -1,6 +1,6 @@
-aaa
-bbbdd
-aaafff
-gggg
-ccc
-gggg
+aaad
+bbbddd
+aaafffd
+ggggd
+cccd
+ggggd
